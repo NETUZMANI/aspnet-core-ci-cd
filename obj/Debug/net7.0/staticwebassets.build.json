@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "nD8scjY/91WoJ8Bb1QlRSsCKowXibFMFBHpvAyTqFFw=",
+  "Source": "aspnet-core-ci-cd",
+  "BasePath": "_content/aspnet-core-ci-cd",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
