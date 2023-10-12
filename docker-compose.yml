@@ -4,6 +4,5 @@ services:
       context: .
       dockerfile: dockerfile
     ports:
-      - 81:81
-      - 82:82
+      - 81:80
     restart: always
