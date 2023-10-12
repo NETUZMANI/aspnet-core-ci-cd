@@ -5,4 +5,5 @@ services:
       dockerfile: dockerfile
     ports:
       - 81:81
+      - 82:82
     restart: always
