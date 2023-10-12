@@ -14,7 +14,7 @@ if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
     app.UseSwaggerUI();
-     builder.WebHost.UseUrls("http://*:81", "https://*.82");
+     builder.WebHost.UseUrls("http://192.168.40.54:81", "https://192.168.40.54.82");
 }
 
 //app.UseHttpsRedirection();
@@ -23,4 +23,4 @@ app.UseAuthorization();
 
 app.MapControllers();
 
-app.Run(http://192.168.40.54:81);
+app.Run();
